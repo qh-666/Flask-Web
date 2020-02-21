@@ -6,3 +6,5 @@ automatically applied for object detection. Rectangles will be drawn around dete
 along with their corresponding category labels. Thumbnails of uploaded photos are displayed
 within the gallery. By clicking on the thumbnail, original image as well as the the modied image
 with detected objects will be presented.
+
+![](</Object Detection Web App based Flask/website/images/IMG_7838.JPG>)
